@@ -1,4 +1,4 @@
-**# 📞 Bank Telemarketing Campaign Analysis**
+**📞 Bank Telemarketing Campaign Analysis**
 
 This project analyzes a bank’s telemarketing campaign data to understand **what drives term deposit subscriptions** and to build models that support **better targeting and campaign efficiency**.
 
