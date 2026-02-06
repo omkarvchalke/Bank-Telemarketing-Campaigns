@@ -21,11 +21,11 @@ This project analyzes a bank’s telemarketing campaign data to understand **wha
 
 **🔬 Research Questions**
 
-1. RQ1 — Logistic Regression**: Identify key predictors of subscription, interpret via odds ratios, and evaluate using ROC/AUC.  
-2. RQ2 — Chi-square Tests**: Test association between demographic variables (job, education, marital status) and subscription outcome.  
-3. RQ3 — Survival Analysis**: Kaplan–Meier and Cox models using time since last contact and prior campaign outcomes.  
-4. RQ4 — Random Forest**: Predict subscription outcome and rank important features.  
-5. RQ5 — Clustering**: Segment customers using K-means (and compare with hierarchical clustering) to support targeted strategies.
+1. RQ1 — Logistic Regression: Identify key predictors of subscription, interpret via odds ratios, and evaluate using ROC/AUC.  
+2. RQ2 — Chi-square Tests: Test association between demographic variables (job, education, marital status) and subscription outcome.  
+3. RQ3 — Survival Analysis: Kaplan–Meier and Cox models using time since last contact and prior campaign outcomes.  
+4. RQ4 — Random Forest: Predict subscription outcome and rank important features.  
+5. RQ5 — Clustering: Segment customers using K-means (and compare with hierarchical clustering) to support targeted strategies.
 
 ---
 
